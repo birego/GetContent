@@ -1,0 +1,1702 @@
+
+    
+      
+
+
+    
+      Skip to content
+      
+      
+    
+      
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+  
+  {"props":{"docsUrl":"https://docs.github.com/get-started/accessibility/keyboard-shortcuts"}}
+  
+
+
+
+
+
+      
+
+        
+
+            
+
+
+
+  Navigation Menu
+
+  
+    Toggle navigation
+  
+
+  
+    
+      
+        
+    
+
+      
+
+      
+        
+          Sign in
+        
+      
+
+      
+          
+    
+            
+            
+  
+
+      
+    
+
+
+    
+      
+          
+            
+                
+      
+        Product
+        
+    
+
+      
+      
+          
+            
+                
+  
+      
+    
+
+      
+        Actions
+        Automate any workflow
+      
+
+    
+
+
+                
+  
+      
+    
+
+      
+        Packages
+        Host and manage packages
+      
+
+    
+
+
+                
+  
+      
+    
+
+      
+        Security
+        Find and fix vulnerabilities
+      
+
+    
+
+
+                
+  
+      
+    
+
+      
+        Codespaces
+        Instant dev environments
+      
+
+    
+
+
+                
+  
+      
+    
+
+      
+        Copilot
+        Write better code with AI
+      
+
+    
+
+
+                
+  
+      
+    
+
+      
+        Code review
+        Manage code changes
+      
+
+    
+
+
+                
+  
+      
+    
+
+      
+        Issues
+        Plan and track work
+      
+
+    
+
+
+                
+  
+      
+    
+
+      
+        Discussions
+        Collaborate outside of code
+      
+
+    
+
+
+            
+          
+          
+              Explore
+            
+                
+  
+      All features
+
+    
+
+
+                
+  
+      Documentation
+
+    
+    
+
+
+
+                
+  
+      GitHub Skills
+
+    
+    
+
+
+
+                
+  
+      Blog
+
+    
+    
+
+
+
+            
+          
+      
+
+
+
+                
+      
+        Solutions
+        
+    
+
+      
+      
+          
+              For
+            
+                
+  
+      Enterprise
+
+    
+
+
+                
+  
+      Teams
+
+    
+
+
+                
+  
+      Startups
+
+    
+
+
+                
+  
+      Education
+
+    
+    
+
+
+
+            
+          
+          
+              By Solution
+            
+                
+  
+      CI/CD & Automation
+
+    
+
+
+                
+  
+      DevOps
+
+    
+
+
+                
+  
+      DevSecOps
+
+    
+    
+
+
+
+            
+          
+          
+              Resources
+            
+                
+  
+      Learning Pathways
+
+    
+    
+
+
+
+                
+  
+      White papers, Ebooks, Webinars
+
+    
+    
+
+
+
+                
+  
+      Customer Stories
+
+    
+
+
+                
+  
+      Partners
+
+    
+    
+
+
+
+            
+          
+      
+
+
+
+                
+      
+        Open Source
+        
+    
+
+      
+      
+          
+            
+                
+  
+      
+      
+        GitHub Sponsors
+        Fund open source developers
+      
+
+    
+
+
+            
+          
+          
+            
+                
+  
+      
+      
+        The ReadME Project
+        GitHub community articles
+      
+
+    
+
+
+            
+          
+          
+              Repositories
+            
+                
+  
+      Topics
+
+    
+
+
+                
+  
+      Trending
+
+    
+
+
+                
+  
+      Collections
+
+    
+
+
+            
+          
+      
+
+
+
+                
+    Pricing
+
+
+            
+          
+
+        
+                
+
+
+
+  
+      
+        
+          
+    
+
+        
+        Search or jump to...
+          
+            
+
+          
+      
+
+    
+
+    
+
+  
+      Search code, repositories, users, issues, pull requests...
+    
+      
+                  
+          
+  
+    
+      
+        Search
+      
+      
+          
+            
+    
+
+          
+        
+          
+          
+            
+            
+          
+        
+          Clear
+            
+    
+
+
+
+      
+      
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+        
+                
+        
+      
+        
+          
+    
+
+        
+        
+    
+    
+
+          
+            
+              Search syntax tips
+            
+          
+        
+
+
+    
+
+  
+  
+  
+    
+
+  
+    
+  
+    
+      
+        Provide feedback
+      
+    
+    
+      
+    
+
+    
+  
+
+      
+                
+          We read every piece of feedback, and take your input very seriously.
+          
+          
+          Include my email address so I can be contacted
+
+      
+                    Cancel
+
+              Submit feedback
+
+
+
+
+    
+    
+
+  
+    
+  
+    
+      
+        Saved searches
+      
+        Use saved searches to filter your results more quickly
+    
+    
+      
+    
+
+    
+  
+
+      
+                
+
+        
+        
+          
+
+          
+
+          
+            Name
+            
+              
+              
+            
+          
+
+          
+            Query
+            
+          
+
+          
+            To see all available qualifiers, see our documentation.
+          
+        
+
+        
+          
+        
+
+
+      
+                    Cancel
+
+              Create saved search
+
+
+
+    
+  
+
+
+
+          
+            
+              Sign in
+            
+          
+
+            
+              Sign up
+            
+        
+      
+    
+  
+
+
+      
+  
+        
+    
+
+        You signed in with another tab or window. Reload to refresh your session.
+        You signed out in another tab or window. Reload to refresh your session.
+        You switched accounts on another tab or window. Reload to refresh your session.
+
+      
+    
+
+Dismiss alert
+
+
+  
+
+    
+
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+  
+    
+
+  
+    
+      
+    
+
+    
+    
+      
+      {{ message }}
+
+    
+  
+
+  
+
+
+
+    
+    
+
+
+
+
+
+  
+      
+        
+
+  
+      
+        
+    
+
+      
+    
+      
+  
+
+
+  
+    
+        
+  
+              
+              
+                
+                  
+                
+                
+                  birego
+                  
+  
+    
+      Follow
+    
+  
+
+                
+              
+            
+
+              
+              
+  
+    
+    
+
+    Overview
+
+  
+    
+    
+
+    Repositories
+    25
+
+  
+    
+    
+
+    Projects
+    0
+
+    
+      
+    
+
+      Packages
+      0
+
+  
+    
+    
+
+    Stars
+    0
+
+
+
+
+
+    
+          
+        
+    
+
+        More
+      
+
+          
+        
+          
+            Overview
+          
+          
+            Repositories
+          
+          
+            Projects
+          
+            
+              Packages
+            
+          
+            Stars
+          
+        
+      
+
+
+
+            
+
+    
+  
+
+
+  
+  
+        
+          
+            
+              
+                
+              
+              
+                
+                  birego
+              
+              
+                
+  
+    
+      Follow
+    
+  
+
+              
+            
+          
+
+          
+  
+    
+        
+      
+
+    
+
+    
+      
+        
+          christian birego
+        
+        
+          birego
+
+        
+      
+    
+  
+
+  
+
+  
+    
+        
+              
+                
+                
+  
+    
+      Follow
+    
+  
+
+              
+        
+
+
+    
+
+    
+
+  passion IT
+
+
+    
+      
+        
+          
+    
+
+          6
+          followers
+        · 
+          14
+          following
+        
+      
+    
+
+  
+        
+                  PIPSOFTS
+
+      
+        goma Drc
+
+
+
+    
+    
+
+      birego.github.com
+
+
+      X
+
+
+
+
+
+
+
+
+
+
+        @biregochristian
+
+  
+
+
+  
+
+      
+    AchievementsBetaSend feedbackAchievementsBetaSend feedback
+    Highlights
+  
+    
+    
+Developer Program Member
+  
+
+
+    
+    
+          
+        Block or Report
+      
+
+  
+    
+      
+        
+    
+
+      
+        Block or report birego
+    
+      
+            
+      
+          
+        
+
+        Block user
+        
+            Prevent this user from interacting with your repositories and sending you notifications.
+          Learn more about blocking users.
+        
+
+
+
+
+
+            
+              You must be logged in to block users.
+            
+
+          
+              
+      
+        Add an optional note:
+    
+  
+    
+      
+
+      
+  
+    
+
+  
+    
+
+  
+
+      Please don't include any personal information such as legal names or email addresses. Maximum 100 characters, markdown supported. This note will be visible to only you.
+
+
+
+          
+
+        
+          Block user
+        
+    
+    
+      Report abuse
+      
+        Contact GitHub support about this user’s behavior.
+        Learn more about reporting abuse.
+      
+      Report abuse
+    
+
+      
+  
+
+
+
+
+      
+
+          
+          
+  
+    
+    
+
+    Overview
+
+  
+    
+    
+
+    Repositories
+    25
+
+  
+    
+    
+
+    Projects
+    0
+
+    
+      
+    
+
+      Packages
+      0
+
+  
+    
+    
+
+    Stars
+    0
+
+
+
+
+
+    
+          
+        
+    
+
+        More
+      
+
+          
+        
+          
+            Overview
+          
+          
+            Repositories
+          
+          
+            Projects
+          
+            
+              Packages
+            
+          
+            Stars
+          
+        
+      
+
+
+
+        
+      
+
+        
+          
+    
+
+
+
+
+  
+  
+    
+      
+        birego/README.md
+      
+
+    
+    Bienvenue sur mon profil GitHub !
+À propos de moi
+Salut, je suis CHRISTIAN BIREGO, un passionné du développement web avec un vif intérêt pour à la fois le frontend et le backend. Je suis constamment en quête de nouvelles opportunités pour créer des expériences en ligne exceptionnelles en combinant la puissance de la conception et de la fonctionnalité.
+Compétences principales
+
+Frontend: Je maîtrise les langages de base du frontend tels que HTML, CSS et JavaScript. J'aime créer des interfaces utilisateur attrayantes et conviviales en utilisant des frameworks tels que React et Vue.js.
+Backend: Je suis tout aussi à l'aise du côté serveur, avec une solide expérience dans le développement backend. J'ai travaillé avec des langages comme Node.js Php et Python pour créer des API robustes et des fonctionnalités côté serveur.
+Flexibilité et Adaptabilité: J'apprécie la nature changeante du monde du développement web. Je suis constamment en train d'apprendre de nouvelles technologies, de m'adapter aux tendances émergentes et d'explorer de nouvelles façons d'améliorer mes compétences.
+
+Projets récents
+
+Kivuclouding : Une application web innovante pour [L'hebergement des application en ligne ].
+eShop : Un outil backend pour [La gestion de stock pour des entreprises].
+
+Contactez-moi
+Je suis toujours ouvert aux collaborations, aux idées et aux discussions intéressantes dans le domaine du développement web. N'hésitez pas à me contacter par email ou à me suivre sur Twitter pour rester à jour avec mes dernières réalisations.
+Merci d'avoir visité mon profil !
+Je suis impatient de connecter avec d'autres passionnés de développement web et de collaborer sur des projets passionnants. N'hésitez pas à explorer mes référentiels pour en savoir plus sur mes compétences et mes réalisations.
+
+
+  
+
+
+
+
+  
+  
+      Popular repositories
+    
+  
+  
+
+    
+  
+
+    
+
+    
+      
+        
+          
+            
+              
+                style-liste-a-puce
+              
+style-liste-a-puce            
+              Public
+            
+          
+
+            
+              Forked from SabrinaMouginot/style-liste-a-puce
+            
+
+          
+            
+          
+
+          
+              
+  
+  CSS
+
+
+              
+                
+    
+
+                1
+              
+          
+        
+      
+    
+
+    
+      
+        
+          
+            
+              
+                CSS2.0
+              
+CSS2.0            
+              Public
+            
+          
+
+
+          
+            framework css
+          
+
+          
+              
+                
+    
+
+                1
+              
+          
+        
+      
+    
+
+    
+      
+        
+          
+            
+              
+                CodingGame_Report_Gererator
+              
+CodingGame_Report_Gererator            
+              Public
+            
+          
+
+            
+              Forked from JoeMakuta/CodingGame_Report_Gererator
+            
+
+          
+            
+          
+
+          
+              
+  
+  JavaScript
+
+
+              
+                
+    
+
+                1
+              
+          
+        
+      
+    
+
+    
+      
+        
+          
+            
+              
+                Exercice-11-Fetch-API-ChristianBirego
+              
+Exercice-11-Fetch-API-ChristianBirego            
+              Public
+            
+          
+
+
+          
+            
+          
+
+          
+              
+  
+  JavaScript
+
+
+              
+                
+    
+
+                1
+              
+          
+        
+      
+    
+
+    
+      
+        
+          
+            
+              
+                kiwix-js
+              
+kiwix-js            
+              Public
+            
+          
+
+            
+              Forked from kiwix/kiwix-js
+            
+
+          
+            Fully portable & lightweight ZIM reader in Javascript
+          
+
+          
+              
+  
+  JavaScript
+
+
+              
+                
+    
+
+                1
+              
+          
+        
+      
+    
+
+    
+      
+        
+          
+            
+              
+                birego.github.io
+              
+birego.github.io            
+              Public
+            
+          
+
+
+          
+            Website
+          
+
+          
+              
+  
+  CSS
+
+
+              
+                
+    
+
+                1
+              
+          
+        
+      
+    
+
+
+
+
+
+
+
+      
+        
+          
+  
+  
+
+        
+        
+          Something went wrong, please refresh the page to try again.
+          If the problem persists, check the GitHub status page
+          or contact support.
+        
+      
+
+
+
+
+        
+      
+
+
+
+      
+  
+
+          
+  Footer
+
+  
+
+
+  
+    
+      
+        
+    
+
+
+      
+        © 2024 GitHub, Inc.
+      
+    
+
+    
+      Footer navigation
+
+      
+
+          
+            Terms
+          
+
+          
+            Privacy
+          
+
+          
+            Security
+          
+
+          
+            Status
+          
+
+          
+            Docs
+          
+
+          
+            Contact
+          
+
+          
+  
+    
+      Manage cookies
+    
+  
+
+
+
+  
+    
+      Do not share my personal information
+    
+  
+
+
+      
+    
+  
+
+
+
+
+
+    
+
+
+  
+    
+    
+
+    
+      
+    
+
+    
+    You can’t perform that action at this time.
+  
+
+    
+  
+    
+    
+      
+        
+    
+
+      
+      
+    
+  
+
+
+    
+  
+  
+
+
+    
+  
+    
+      
+    
+
+      
+    
+
+    
+  
+
+
+  
+    
+      
+    
+
+      
+    
+
+    
+  
+
+
+
+
+
+    
+
+    
+    
+  
+

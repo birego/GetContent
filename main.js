@@ -1,5 +1,6 @@
 import axios from 'axios';
 import cheerio from 'cheerio';
+import fs from 'fs/promises';
 
 const fetchPageContent = async (url) => {
   try {
@@ -17,15 +18,19 @@ const stripHTML = (html) => {
 };
 
 const main = async () => {
-  const url = 'https://github.com/birego';
-  try {
-    const html = await fetchPageContent(url);
-    const textWithoutHTML = stripHTML(html);
-    console.log(textWithoutHTML);
-  } catch (error) {
-    console.error('Une erreur s\'est produite :', error);
-  }
-};
+    const url = 'https://github.com/birego';
+    try {
+      const html = await fetchPageContent(url);
+      const textWithoutHTML = stripHTML(html);
+      
+      // Enregistrez le texte dans un fichier
+      await fs.writeFile('output.txt', textWithoutHTML);
+      
+      console.log('Le contenu a été enregistré dans output.txt');
+    } catch (error) {
+      console.error('Une erreur s\'est produite :', error);
+    }
+  };
 
 main();
 
